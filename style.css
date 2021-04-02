@@ -1,0 +1,29 @@
+
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+  background-color: black;
+}
+
+h1 {
+  font-style: italic;
+  color: #373fff;
+}
+
+h2 {
+  color: white;
+
+}
+
+h3 {
+  color: white;
+}
+
+img {
+  size: 10px;
+  border-radius: 50%;
+  border: 1px solid #ddd;
+  padding: 5px;
+  width: 200px;
+}
